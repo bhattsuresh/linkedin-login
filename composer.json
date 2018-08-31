@@ -1,0 +1,21 @@
+{
+    "name": "apisys/linkedin",
+    "description": "login with linkedin",
+	"license": "MIT",
+    "type":"library",
+    "authors": [
+        {
+            "name": "Suresh Bhatt",
+            "email": "bhattsuresh09@gmail.com"
+        }
+    ],
+	 "autoload": {
+        "psr-4": {
+            "": ["src/"]
+    
+          
+        }
+     
+    },
+    "require": {}
+}
