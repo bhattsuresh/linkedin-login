@@ -5,7 +5,9 @@ composer require apisys/linkedin
 # uses
 
 
+
 ```php
+ require __DIR__.'/vendor/autoload.php';  //for core php
  $linkedin = new LinkedIn('YOUR-APIKEY-HERE','YOUR-API-SECRET', 'REDIRECT-URL');
  
  $userdata = $linkedin->process();
