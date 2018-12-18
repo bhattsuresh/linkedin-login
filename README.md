@@ -5,8 +5,7 @@ composer require apisys/linkedin
 # uses
 
 
-<code>
-  
+```php
  $linkedin = new LinkedIn('YOUR-APIKEY-HERE','YOUR-API-SECRET', 'REDIRECT-URL');
  
  $userdata = $linkedin->process();
