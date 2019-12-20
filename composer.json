@@ -1,5 +1,5 @@
 {
-    "name": "apisys/linkedin",
+    "name": "codedev/linkedin",
     "description": "login with linkedin",
 	"license": "MIT",
     "type":"library",
